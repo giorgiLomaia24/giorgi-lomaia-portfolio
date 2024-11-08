@@ -57,7 +57,7 @@ import laravel  from '../assets/skills/laravel.png';
 import mongo  from '../assets/skills/mongo.png';
 import net  from '../assets/skills/net.png';
 import next from '../assets/skills/next.png';
-import nodeJs  from '../assets/skills/nodeJs.png';
+import nodeJs  from '../assets/skills/nodejs.png';
 import php  from '../assets/skills/php.png';
 import postgress  from '../assets/skills/postgress.png';
 import react  from '../assets/skills/react.png';
